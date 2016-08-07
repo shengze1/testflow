@@ -8,4 +8,8 @@ public class Test () {
 	}
 	public addbean() {
 	}
+	
+	public static void getprop() {
+		return null;
+	}
 }

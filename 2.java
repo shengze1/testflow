@@ -1,1 +1,2 @@
-ECHO is on.
+
+/*test code1 goes here*/

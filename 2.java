@@ -13,6 +13,6 @@ public class Test () {
 		return null;
 	}
 
-
-
+	public static void getprop() {
+  }
 }
